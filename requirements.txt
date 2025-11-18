@@ -1,6 +1,3 @@
 ultralytics
-opencv-python
-numpy
-matplotlib
 roboflow
-Pillow
+opencv-python-headless
