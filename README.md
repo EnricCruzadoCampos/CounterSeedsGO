@@ -1,5 +1,5 @@
 # CounterSeedsGO
-
+---
 Este proyecto implementa un sistema de detección de objetos de alto rendimiento utilizando YOLOv8 y la librería Ultralytics. Está optimizado para ejecutarse en GPU, maximizando el uso del hardware para acelerar el aprendizaje. El dataset utilizado destaca por su alta densidad, conteniendo un promedio de 65 instancias por imagen. La configuración de entrenamiento ajusta hiperparámetros clave como épocas, tamaño de imagen y estrategias de data augmentation.
 --------------------------------------------------------------------------------------------------------------------------------
 This project implements a high-performance object detection system using YOLOv8 and the Ultralytics library. It is optimized for GPU acceleration, maximizing hardware efficiency to speed up the learning process. The dataset is characterized by its high density, featuring an average of 65 object instances per image. The training configuration fine-tunes critical hyperparameters such as epochs, image size, and data augmentation strategies.
